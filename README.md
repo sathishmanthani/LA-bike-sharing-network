@@ -1,5 +1,6 @@
 # LA-bike-sharing-network
 
+<img src="images/bikesharing.png?raw=true"/>
 
 Bike sharing is the shared use of a fleet of bicycles which provides users with on-demand access to bicycles for one-way (point-to-point) or roundtrip travel. Bikes can be e-bikes or manual.  
 
